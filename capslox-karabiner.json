@@ -1,9 +1,9 @@
 {
-  "title": "capslox-karabiner",
-  "version": "1.0.0",
-  "maintainers": ["yqchilde"],
-  "homepage": "https://github.com/yqchilde/capslox-karabiner",
-  "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/yqchilde/capslox-karabiner/main/capslox-karabiner.json",
+  "title": "capslox-karabiner-classic",
+  "version": "3.0.0",
+  "maintainers": ["yqchilde", "yar2001"],
+  "homepage": "https://github.com/yar2001/capslox-karabiner-classic",
+  "import_url": "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/capslox-karabiner-classic/main/capslox-karabiner.json",
   "rules": [
     {
       "description": "Capslock赋能",
