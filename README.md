@@ -1,3 +1,5 @@
+前排提示：本项目fork自[yqchilde/capslox-karabiner](https://github.com/yqchilde/capslox-karabiner)，更改了一些键位，使其更贴近Win原版（例如粘贴和空格换行），主要自用。下面的介绍来自原版，可能和代码的实际功能有所差异。
+
 # capslox-karabiner
 
 本项目是基于karabiner实现替代[capslox软件](https://capslox.com)
